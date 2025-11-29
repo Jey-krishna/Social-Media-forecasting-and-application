@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+matplotlib
+scikit-learn
+xgboost
+prophet
+langchain-core
+langchain-ollama
+openpyxl
