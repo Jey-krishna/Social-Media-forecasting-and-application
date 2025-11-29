@@ -13,7 +13,7 @@ from prophet import Prophet
 from langchain_ollama import ChatOllama
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 import streamlit as st
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.set_page_config(
     page_title="Social Media Engagnement Forcasting",
@@ -277,4 +277,5 @@ if nav ==  'Chat Bot':
 
 
     
+
 
